@@ -1,0 +1,5 @@
+1. Id (номер)
+2. Description of the test (описание проверки)
+3. Status (статус)
+4. Сomment (комментарий)
+
