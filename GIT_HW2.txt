@@ -1,11 +1,11 @@
-1. На локальном репозитории сделать ветки для:
+﻿1. На локальном репозитории сделать ветки для:
 - Postman
 - Jmeter
 - CheckList
 - Bug Reports
 - SQL
 - Charles
-- Mobile testing
+- Mobile testing.
  
   git branch postman 
   git branch jmeter
